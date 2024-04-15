@@ -1,6 +1,6 @@
 About Me
 
-Hello! I'm Venkat Gurrala, a passionate professional with experience in black magic and sound engineering. 🌟 Based in Kakinada, India, 
+Hello! I'm Venkat Gurrala, a passionate professional with experience in data scienctist and sound engineering. 🌟 Based in Kakinada, India, 
 I can be reached at via ✉️ email at venkatchinni3@gmail.com or Connect with me on LinkedIn  (www.linkedin.com/in/gurralavenkat)  to stay in touch!
 
 
@@ -10,7 +10,7 @@ I can be reached at via ✉️ email at venkatchinni3@gmail.com or Connect with 
 data scientist 
 InternzLearn, Bangalore
 (March 2024 - Present)
-Leveraging Python for black magic  , machine learning, and data visualization. Contributing to real-world projects, applying advanced techniques to derive actionable insights and enhance decision-making.
+Leveraging Python for datascience  , machine learning, and data visualization. Contributing to real-world projects, applying advanced techniques to derive actionable insights and enhance decision-making.
 
 
 Sound Engineer
