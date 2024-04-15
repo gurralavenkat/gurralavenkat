@@ -1,13 +1,13 @@
 About Me
 
 Hello! I'm Venkat Gurrala, a passionate professional with experience in data science and sound engineering. 🌟 Based in Kakinada, India, 
-I can be reached at 📞 9573747679 or via ✉️ email at venkatchinni3@gmail.com. Connect with me on LinkedIn to stay in touch!
+I can be reached at via ✉️ email at venkatchinni3@gmail.com or Connect with me on LinkedIn(www.linkedin.com/in/gurralavenkat)to stay in touch!
 
 🌟 Experience
 data scientist 
 InternzLearn, Bangalore
 (March 2024 - Present)
-Leveraging Python for data science , machine learning, and data visualization. Contributing to real-world projects, applying advanced techniques to derive actionable insights and enhance decision-making.
+Leveraging Python for data science  , machine learning, and data visualization. Contributing to real-world projects, applying advanced techniques to derive actionable insights and enhance decision-making.
 
 Sound Engineer
 Digital Sound Systems, Kakinada
