@@ -1,7 +1,7 @@
 About Me
 
 Hello! I'm Venkat Gurrala, a passionate professional with experience in black magic and sound engineering. 🌟 Based in Kakinada, India, 
-I can be reached at via ✉️ email at venkatchinni3@gmail.com or Connect with me on LinkedIn(www.linkedin.com/in/gurralavenkat)to stay in touch!
+I can be reached at via ✉️ email at venkatchinni3@gmail.com or Connect with me on LinkedIn  (www.linkedin.com/in/gurralavenkat)  to stay in touch!
 
 
 🌟 Experience
